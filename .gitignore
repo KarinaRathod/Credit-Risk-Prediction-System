@@ -1,0 +1,36 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python / Compilation
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Streamlit specific
+.streamlit/secrets.toml
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Datasets (Optional but recommended)
+# It is a best practice to keep large or sensitive datasets out of version control.
+# If your dataset is small and public, you can comment this out.
+# dataset.csv
+*.csv
+*.xlsx
+!sample_dataset.csv
