@@ -1,12 +1,4 @@
 
-
----
-
-### `README.md`
-
-Your README is the "landing page" for your project. A polished README shows you know how to communicate your technical work effectively.
-
-```markdown
 # 💳 Credit Risk Prediction System
 
 A robust, machine learning-powered web application built with Streamlit and Scikit-Learn to assess credit default risk. This tool allows risk analysts to evaluate individual profiles or process bulk applications via CSV uploads.
